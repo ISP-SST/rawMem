@@ -3,7 +3,7 @@ Template based routines to allocate multidimensional arrays using raw pointers.
 
 To use the routines, simply include rawMem.h in your code:
 
-```
+```C++
 #include "rawMem.h"
 
 int main(){
